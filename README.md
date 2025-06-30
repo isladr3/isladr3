@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... ai applications
 - 📫 How to reach me ... andres.alcantar@hotmail.com
 - 😄 Pronouns: ... He/Him/His
-- ⚡ Fun fact: ... I saw my first movie in theaters when I was 18.
+- ⚡ Fun fact: ... The first time I went to a movie theater was when I was 18.
 
 <!---
 isladr3/isladr3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
