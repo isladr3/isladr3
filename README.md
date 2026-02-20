@@ -1,8 +1,8 @@
 # Hi, I'm Andres Alcantar 👋
 
-### 👨‍💻 Software Developer | Backend Specialist | MEAN Stack Enthusiast
+### 👨‍💻 Software Developer | Full-Stack Specialist | MEAN Stack Enthusiast
 
-I am an entry-level Software Developer focused on building scalable, secure, and user-centric web applications. I specialize in the **MEAN stack** (MongoDB, Express, Angular, Node.js) and enjoy bridging the gap between complex backend logic and fluid frontend experiences.
+I am an entry-level Software Developer focused on building scalable, secure, and user-centric web applications. I specialize in the **MEAN stack** (MongoDB, Express, Angular, Node.js) and have a passion for solving complex architectural challenges.
 
 ---
 
@@ -18,26 +18,26 @@ I am an entry-level Software Developer focused on building scalable, secure, and
 
 ### 🚀 Featured Project: Travlr Getaways
 **[View Repository](https://github.com/isladr3/travlr)**
-* Developed a full-stack travel management system using the MEAN stack.
-* Architected a secure administrative SPA with **JWT-based authentication**.
-* Implemented a public-facing site using Express and dynamic Handlebars templates.
-* Managed data persistence with MongoDB Atlas and Mongoose schemas.
+* Architected a full-stack travel management system using the **MEAN stack**.
+* Implemented **JWT-based authentication** and secure API endpoints to protect administrative functions.
+* Developed a dynamic, public-facing site using **Express** and **Handlebars** templates.
+* Optimized state management in an **Angular SPA** using the spread operator and RxJS.
 
 ---
 
 ### 🌱 What I’m Up To
-* 🔭 **Current Project:** Refining my Full-Stack architecture patterns.
+* 🔭 **Current Project:** Enhancing full-stack security patterns and API performance.
 * 🎓 **Learning:** Advanced Machine Learning and AI application integration.
 * 💬 **Collaboration:** Open to collaborating on AI-driven apps or Open Source projects.
 
 ---
 
 ### 📫 Connect with Me
+* **LinkedIn:** [linkedin.com/in/andres-alcantar](https://www.linkedin.com/in/andres-alcantar/)
 * **Email:** [a99352@outlook.com](mailto:a99352@outlook.com)
-* **LinkedIn:** [Your LinkedIn Profile Link Here]
 * **Location:** Illinois, USA
 
 ---
 
 ### ⚡ Fun Fact
-I saw my first movie in a theater at 18 years old—I've been making up for lost time ever since!
+I didn't start coding until I was already established in other fields—proving it’s never too late to find your true "source code" in life!
